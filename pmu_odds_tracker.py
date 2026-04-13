@@ -5,6 +5,12 @@ Fetches a single snapshot of all race odds from the PMU API
 and appends it to a daily history file, then pushes to GitHub.
 
 Designed to be triggered every 15 min by Railway Cron.
+
+Odds data per horse:
+  - odds:      win odds (float)
+  - tendance:  "+" = drifting, "-" = shortening
+  - magnitude: strength of the move (float)
+  - favoris:   True if currently the favourite (bool)
 """
 
 import requests
@@ -34,7 +40,24 @@ def get_history_filename() -> str:
 def fetch_all_races(date: str) -> dict:
     """
     Fetch odds for every race on the given date.
-    Returns { "R1/C1": { "#3 HORSE NAME": 2.4, ... }, ... }
+    Returns:
+    {
+      "R1/C1": {
+        "hippodrome": "AUTEUIL",
+        "label":      "PRIX GASTON BRANERE",
+        "heure":      "13:15",
+        "horses": {
+          "#1 NO LIMITS STEVE": {
+            "odds":      7.6,
+            "tendance":  "+",
+            "magnitude": 1.33,
+            "favoris":   False
+          },
+          ...
+        }
+      },
+      ...
+    }
     Only includes horses with non-null odds.
     Only includes races that have at least one odd available.
     """
@@ -53,9 +76,9 @@ def fetch_all_races(date: str) -> dict:
         hippo = reunion.get("hippodrome", {}).get("libelleCourt", "")
 
         for course in reunion.get("courses", []):
-            c_num  = f"C{course.get('numOrdre', '?')}"
-            label  = course.get("libelle", "")
-            heure  = course.get("heureDepart", "")
+            c_num = f"C{course.get('numOrdre', '?')}"
+            label = course.get("libelle", "")
+            heure = course.get("heureDepart", "")
 
             # Convert millisecond timestamp to HH:MM string
             if isinstance(heure, int):
@@ -67,35 +90,39 @@ def fetch_all_races(date: str) -> dict:
                 resp.raise_for_status()
                 participants = resp.json().get("participants", [])
 
-                odds = {}
+                horses = {}
                 for p in participants:
                     name    = f"#{p.get('numPmu', '?')} {p.get('nom', '?')}"
-                    rapport = p.get("rapportDirect", {})
+                    rapport = p.get("dernierRapportDirect", {})  # ← correct field
 
-                    # Extract win odds from nested or flat structure
                     if isinstance(rapport, dict):
-                        win = rapport.get("simple") or rapport.get("rapport")
+                        win       = rapport.get("rapport")
+                        tendance  = rapport.get("indicateurTendance", "")
+                        magnitude = rapport.get("nombreIndicateurTendance")
+                        favoris   = rapport.get("favoris", False)
                     else:
-                        win = rapport
+                        win, tendance, magnitude, favoris = None, "", None, False
 
-                    # Fallback to top-level rapport field
-                    if win is None:
-                        win = p.get("rapport")
-
-                    # Only store non-null values
+                    # Only store horses with non-null odds
                     if win is not None:
-                        odds[name] = win
+                        horses[name] = {
+                            "odds":      win,
+                            "tendance":  tendance,   # "+" drifting, "-" shortening
+                            "magnitude": magnitude,  # strength of move
+                            "favoris":   favoris,    # True = current favourite
+                        }
 
-                # Only store races that have at least one odd
-                if odds:
+                # Only store races with at least one odd available
+                if horses:
                     key = f"{r_num}/{c_num}"
                     results[key] = {
                         "hippodrome": hippo,
                         "label":      label,
                         "heure":      heure,
-                        "odds":       odds,
+                        "horses":     horses,
                     }
-                    print(f"  ✅ {key}  {hippo}  {heure}  — {len(odds)} horses")
+                    fav = next((n for n, d in horses.items() if d["favoris"]), "?")
+                    print(f"  ✅ {key:<8} {hippo:<12} {heure}  {len(horses)} horses  fav: {fav}")
 
             except Exception as e:
                 print(f"  [ERROR] {r_num}/{c_num}: {e}")
@@ -121,13 +148,12 @@ def save_history(filepath: str, history: dict):
 def push_to_github(filepath: str, timestamp: str):
     """Commit and push the updated history file to GitHub."""
     token = os.environ.get("GITHUB_TOKEN")
-    repo  = os.environ.get("GITHUB_REPO")   # e.g. "username/pmu-tracker"
+    repo  = os.environ.get("GITHUB_REPO")  # e.g. "username/pmu-tracker"
 
     if not token or not repo:
         print("[WARN] GITHUB_TOKEN or GITHUB_REPO not set — skipping git push.")
         return
 
-    # Set remote URL with token authentication
     remote = f"https://{token}@github.com/{repo}.git"
 
     cmds = [
@@ -143,7 +169,6 @@ def push_to_github(filepath: str, timestamp: str):
     for cmd in cmds:
         result = subprocess.run(cmd, capture_output=True, text=True)
         if result.returncode != 0:
-            # "nothing to commit" is not a real error
             if "nothing to commit" in result.stdout + result.stderr:
                 print("  [INFO] Nothing new to commit.")
                 return
@@ -151,6 +176,18 @@ def push_to_github(filepath: str, timestamp: str):
             return
 
     print(f"  ✅ Pushed to GitHub: {filepath}")
+
+
+def print_summary(races: dict):
+    """Print a readable summary of all captured odds."""
+    print(f"\n{'─' * 60}")
+    for key, race in races.items():
+        print(f"\n  🏇 {key}  {race['hippodrome']}  {race['heure']}  {race['label']}")
+        for name, d in sorted(race["horses"].items(), key=lambda x: x[1]["odds"]):
+            fav_marker = " ⭐" if d["favoris"] else ""
+            trend      = d["tendance"] if d["tendance"] else " "
+            print(f"     {trend} {name:<30} {d['odds']:.1f}{fav_marker}")
+    print(f"\n{'─' * 60}")
 
 
 def main():
@@ -161,23 +198,21 @@ def main():
     print(f"  📡 PMU Snapshot  —  {timestamp}")
     print(f"{'═' * 50}\n")
 
-    # Fetch all races
     races = fetch_all_races(date)
 
     if not races:
         print("\n⚠️  No odds available yet for any race. Exiting.")
         return
 
-    print(f"\n  {len(races)} races with odds captured.")
+    print_summary(races)
+    print(f"\n  {len(races)} races captured.")
 
-    # Load today's history, append snapshot, save
     filepath = get_history_filename()
     history  = load_history(filepath)
     history[timestamp] = races
     save_history(filepath, history)
     print(f"  💾 Saved to {filepath}  ({len(history)} snapshots today)")
 
-    # Push to GitHub
     push_to_github(filepath, timestamp)
 
     print(f"\n✅ Done.\n")
