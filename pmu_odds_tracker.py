@@ -146,36 +146,47 @@ def save_history(filepath: str, history: dict):
 
 
 def push_to_github(filepath: str, timestamp: str):
-    """Commit and push the updated history file to GitHub."""
+    """Upload file directly to GitHub via API — no git required."""
+    import base64
+
     token = os.environ.get("GITHUB_TOKEN")
-    repo  = os.environ.get("GITHUB_REPO")  # e.g. "username/pmu-tracker"
+    repo  = os.environ.get("GITHUB_REPO")  # e.g. "arauch6363-crypto/pmu-tracker"
 
     if not token or not repo:
-        print("[WARN] GITHUB_TOKEN or GITHUB_REPO not set — skipping git push.")
+        print("[WARN] GITHUB_TOKEN or GITHUB_REPO not set — skipping.")
         return
 
-    remote = f"https://{token}@github.com/{repo}.git"
+    headers = {
+        "Authorization": f"token {token}",
+        "Accept":        "application/vnd.github.v3+json",
+    }
 
-    cmds = [
-        ["git", "config", "user.name",  "railway-bot"],
-        ["git", "config", "user.email", "railway-bot@noreply.github.com"],
-        ["git", "remote", "set-url", "origin", remote],
-        ["git", "pull",   "--rebase", "origin", "main"],
-        ["git", "add",    filepath],
-        ["git", "commit", "-m", f"📊 Odds snapshot {timestamp}"],
-        ["git", "push",   "origin", "main"],
-    ]
+    # Read the file we just saved
+    with open(filepath, "rb") as f:
+        content = base64.b64encode(f.read()).decode("utf-8")
 
-    for cmd in cmds:
-        result = subprocess.run(cmd, capture_output=True, text=True)
-        if result.returncode != 0:
-            if "nothing to commit" in result.stdout + result.stderr:
-                print("  [INFO] Nothing new to commit.")
-                return
-            print(f"  [ERROR] {' '.join(cmd)}: {result.stderr.strip()}")
-            return
+    # GitHub API path — must match exactly the path in the repo
+    api_path = filepath.replace("\\", "/")  # fix Windows paths if any
+    url      = f"https://api.github.com/repos/{repo}/contents/{api_path}"
 
-    print(f"  ✅ Pushed to GitHub: {filepath}")
+    # Check if file already exists (we need its SHA to update it)
+    r   = requests.get(url, headers=headers)
+    sha = r.json().get("sha")  # None if file doesn't exist yet
+
+    # Create or update the file
+    payload = {
+        "message": f"📊 Odds snapshot {timestamp}",
+        "content": content,
+    }
+    if sha:
+        payload["sha"] = sha  # required for updates
+
+    r = requests.put(url, headers=headers, json=payload)
+
+    if r.status_code in (200, 201):
+        print(f"  ✅ Pushed to GitHub: {api_path}")
+    else:
+        print(f"  [ERROR] GitHub API: {r.status_code} — {r.json().get('message')}")
 
 
 def print_summary(races: dict):
