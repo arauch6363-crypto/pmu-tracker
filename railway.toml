@@ -1,0 +1,10 @@
+[build]
+builder = "nixpacks"
+
+[deploy]
+# This is a cron job — no persistent server needed
+startCommand = "python pmu_odds_tracker.py"
+
+[[cronjobs]]
+schedule = "*/15 8-20 * * *"   # every 15 min, 08:00–20:00 daily (UTC — adjust if needed)
+command  = "python pmu_odds_tracker.py"
