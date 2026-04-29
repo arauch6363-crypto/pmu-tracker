@@ -149864,7 +149864,7 @@
       }
     }
   },
-  "2026-04-29 15:31": {
+  "2026-04-29 15:40": {
     "R1/C1": {
       "hippodrome": "LAVAL",
       "label": "PRIX FFB 53",
@@ -150442,93 +150442,93 @@
       "heure": "16:00",
       "horses": {
         "#1 LIBERTA DE MARZY": {
-          "odds": 37.0,
+          "odds": 42.0,
           "tendance": "+",
-          "magnitude": 0.53,
+          "magnitude": 9.58,
           "favoris": false
         },
         "#2 LUCRECE DE CORDAY": {
-          "odds": 44.0,
-          "tendance": "-",
-          "magnitude": -3.07,
+          "odds": 45.0,
+          "tendance": "+",
+          "magnitude": 5.8,
           "favoris": false
         },
         "#3 LIGNE BLANCHE": {
           "odds": 12.0,
-          "tendance": "",
-          "magnitude": 0.0,
+          "tendance": "-",
+          "magnitude": -2.36,
           "favoris": false
         },
         "#4 LUCRECE HAUFOR": {
-          "odds": 11.0,
+          "odds": 10.0,
           "tendance": "",
           "magnitude": 0.0,
           "favoris": false
         },
         "#5 LUBIE DE CELINIERE": {
-          "odds": 5.0,
-          "tendance": "",
-          "magnitude": 0.0,
-          "favoris": false
+          "odds": 4.3,
+          "tendance": "-",
+          "magnitude": -10.41,
+          "favoris": true
         },
         "#6 LADIVINA": {
-          "odds": 198.0,
-          "tendance": "-",
-          "magnitude": -2.12,
+          "odds": 195.0,
+          "tendance": "+",
+          "magnitude": 9.41,
           "favoris": false
         },
         "#7 LESPANA DU BOCAGE": {
-          "odds": 20.0,
-          "tendance": "",
-          "magnitude": 0.0,
+          "odds": 22.0,
+          "tendance": "+",
+          "magnitude": 8.21,
           "favoris": false
         },
         "#8 LISON DES GLENAN": {
-          "odds": 26.0,
-          "tendance": "-",
-          "magnitude": -2.58,
+          "odds": 29.0,
+          "tendance": "+",
+          "magnitude": 4.69,
           "favoris": false
         },
         "#9 LINKIA DES APRES": {
-          "odds": 31.0,
+          "odds": 35.0,
           "tendance": "+",
-          "magnitude": 0.31,
+          "magnitude": 7.48,
           "favoris": false
         },
         "#10 LARA VRIE": {
-          "odds": 4.6,
-          "tendance": "-",
-          "magnitude": -2.12,
+          "odds": 4.3,
+          "tendance": "",
+          "magnitude": 0.0,
           "favoris": true
         },
         "#11 LOVELY KOOL": {
-          "odds": 55.0,
-          "tendance": "-",
-          "magnitude": -2.95,
+          "odds": 62.0,
+          "tendance": "+",
+          "magnitude": 8.13,
           "favoris": false
         },
         "#12 LAZURA PRIOR": {
-          "odds": 14.0,
-          "tendance": "",
-          "magnitude": 0.0,
+          "odds": 15.0,
+          "tendance": "+",
+          "magnitude": 6.12,
           "favoris": false
         },
         "#13 LARAFALE PASMARICK": {
-          "odds": 7.5,
+          "odds": 8.3,
           "tendance": "+",
-          "magnitude": 1.35,
+          "magnitude": 3.75,
           "favoris": false
         },
         "#14 L'ILE D'HAUFOR": {
-          "odds": 78.0,
-          "tendance": "-",
-          "magnitude": -2.12,
+          "odds": 83.0,
+          "tendance": "+",
+          "magnitude": 8.83,
           "favoris": false
         },
         "#15 LUANA SPORT": {
-          "odds": 5.6,
-          "tendance": "",
-          "magnitude": 0.0,
+          "odds": 6.0,
+          "tendance": "+",
+          "magnitude": 1.69,
           "favoris": false
         }
       }
@@ -151785,93 +151785,93 @@
       "heure": "15:45",
       "horses": {
         "#1 HIMALAYA NARCY": {
-          "odds": 107.0,
+          "odds": 123.0,
           "tendance": "+",
-          "magnitude": 2.86,
+          "magnitude": 6.01,
           "favoris": false
         },
         "#2 INDOCILE": {
-          "odds": 8.8,
-          "tendance": "",
-          "magnitude": 0.0,
+          "odds": 12.0,
+          "tendance": "+",
+          "magnitude": 3.33,
           "favoris": false
         },
         "#3 HARIBO DU CARNOIS": {
-          "odds": 47.0,
-          "tendance": "+",
-          "magnitude": 0.63,
+          "odds": 59.0,
+          "tendance": "-",
+          "magnitude": -3.9,
           "favoris": false
         },
         "#4 HINDEN": {
-          "odds": 33.0,
+          "odds": 38.0,
           "tendance": "-",
-          "magnitude": -0.59,
+          "magnitude": -2.04,
           "favoris": false
         },
         "#5 IRON D'ESPOIR": {
-          "odds": 41.0,
-          "tendance": "",
-          "magnitude": 0.0,
+          "odds": 56.0,
+          "tendance": "+",
+          "magnitude": 3.47,
           "favoris": false
         },
         "#6 HEYDAY": {
-          "odds": 52.0,
+          "odds": 50.0,
           "tendance": "+",
-          "magnitude": 0.57,
+          "magnitude": 1.81,
           "favoris": false
         },
         "#7 JOJOBA DE QUERAY": {
-          "odds": 2.8,
-          "tendance": "",
-          "magnitude": 0.0,
+          "odds": 3.2,
+          "tendance": "-",
+          "magnitude": -3.03,
           "favoris": true
         },
         "#8 HORIZON D'EYMY": {
-          "odds": 10.0,
-          "tendance": "-",
-          "magnitude": -0.92,
+          "odds": 5.6,
+          "tendance": "+",
+          "magnitude": 1.81,
           "favoris": false
         },
         "#9 HERAKLION": {
-          "odds": 90.0,
+          "odds": 100.0,
           "tendance": "+",
-          "magnitude": 0.55,
+          "magnitude": 3.91,
           "favoris": false
         },
         "#10 JAZZ PAT": {
-          "odds": 15.0,
+          "odds": 12.0,
           "tendance": "",
           "magnitude": 0.0,
           "favoris": false
         },
         "#11 HAKIM DES CHAMPS": {
-          "odds": 12.0,
-          "tendance": "-",
-          "magnitude": -1.58,
+          "odds": 7.9,
+          "tendance": "",
+          "magnitude": 0.0,
           "favoris": false
         },
         "#12 JALTO DU TREMONT": {
-          "odds": 18.0,
+          "odds": 17.0,
           "tendance": "",
           "magnitude": 0.0,
           "favoris": false
         },
         "#13 IGGY ROCK": {
-          "odds": 39.0,
-          "tendance": "+",
-          "magnitude": 0.51,
+          "odds": 31.0,
+          "tendance": "-",
+          "magnitude": -1.88,
           "favoris": false
         },
         "#14 GAJAC": {
-          "odds": 71.0,
+          "odds": 88.0,
           "tendance": "+",
-          "magnitude": 0.56,
+          "magnitude": 0.91,
           "favoris": false
         },
         "#15 IMHOTEP FROMENTRO": {
-          "odds": 3.8,
-          "tendance": "",
-          "magnitude": 0.0,
+          "odds": 5.0,
+          "tendance": "+",
+          "magnitude": 2.04,
           "favoris": false
         },
         "#16 IDEAL DE RIVRAY": {
