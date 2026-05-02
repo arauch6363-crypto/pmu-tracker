@@ -108350,5 +108350,3240 @@
         }
       }
     }
+  },
+  "2026-05-02 13:10": {
+    "R1/C1": {
+      "hippodrome": "VINCENNES",
+      "label": "PRIX DE CHATEAU-DU-LOIR",
+      "heure": "11:23",
+      "horses": {
+        "#1 GALOPIN DE CONDE": {
+          "odds": 65.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#2 HOUSTON DE CUIGNY": {
+          "odds": 10.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#3 HENRIQUE": {
+          "odds": 2.9,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#4 HALTESS GRIFF": {
+          "odds": 84.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#5 HORACE D'ARTHENAY": {
+          "odds": 25.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#6 GENERAL D'AMOUR": {
+          "odds": 22.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#7 HA YES MAX": {
+          "odds": 34.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#8 HIBISCUS DE LATOM": {
+          "odds": 80.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#9 HOLLYWOOD BOND": {
+          "odds": 8.6,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#10 HERAKLION DESBOIS": {
+          "odds": 9.7,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#11 HIRIUS DE GUEZ": {
+          "odds": 11.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#12 HURLEVENT": {
+          "odds": 53.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#13 HUDSON BAIE": {
+          "odds": 16.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#14 FAXIMA": {
+          "odds": 23.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#15 HUGO D'HERTALS": {
+          "odds": 7.8,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#16 HOUPETTE ROSE": {
+          "odds": 43.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R1/C2": {
+      "hippodrome": "VINCENNES",
+      "label": "PRIX DE MARCQ-EN-BAROEUL",
+      "heure": "12:01",
+      "horses": {
+        "#1 LINEA DE L'ALBA": {
+          "odds": 65.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#2 LIANE": {
+          "odds": 15.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#3 LIBERTY AVENUE": {
+          "odds": 22.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#4 LUCKY STAR JIEL": {
+          "odds": 42.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#5 LEA GIBUS": {
+          "odds": 24.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#6 LA TRINITE NEMO": {
+          "odds": 10.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#7 LATINA JENILOU": {
+          "odds": 8.7,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#8 LYLOU DES THUYAS": {
+          "odds": 7.7,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#9 LIBERTE DE L'AUNAY": {
+          "odds": 4.3,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#10 LUNE LUMALO": {
+          "odds": 18.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#11 LEONTINE CASH": {
+          "odds": 3.2,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#12 LOVE ME BERRY": {
+          "odds": 25.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R1/C3": {
+      "hippodrome": "VINCENNES",
+      "label": "PRIX DE RENNES",
+      "heure": "12:38",
+      "horses": {
+        "#1 MARVINA BELLA": {
+          "odds": 94.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#2 MISSLADY DU VICLAU": {
+          "odds": 38.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#3 MARINA JAMES": {
+          "odds": 133.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#4 MABELLISSIME": {
+          "odds": 15.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#5 MARILYN MONROE": {
+          "odds": 31.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#6 MIDNIGHT EXPRESS": {
+          "odds": 37.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#7 METIDJA": {
+          "odds": 25.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#8 MARA BEST": {
+          "odds": 33.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#9 MYSTERY QUEEN": {
+          "odds": 7.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#10 MARINELLA VRIE": {
+          "odds": 3.7,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#11 MOSAIC LIFE": {
+          "odds": 12.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#12 MARGAUX DES ARRIS": {
+          "odds": 20.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#13 MARILOU": {
+          "odds": 2.5,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        }
+      }
+    },
+    "R1/C4": {
+      "hippodrome": "VINCENNES",
+      "label": "PRIX DU ROUERGUE",
+      "heure": "13:15",
+      "horses": {
+        "#1 HARRY CARISAIE": {
+          "odds": 95.0,
+          "tendance": "-",
+          "magnitude": -1.43,
+          "favoris": false
+        },
+        "#2 GIMS DU PLESSIS": {
+          "odds": 6.7,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#3 HURRICANE CARTER": {
+          "odds": 9.2,
+          "tendance": "+",
+          "magnitude": 1.09,
+          "favoris": false
+        },
+        "#4 GALA DE CRENNES": {
+          "odds": 56.0,
+          "tendance": "+",
+          "magnitude": 0.17,
+          "favoris": false
+        },
+        "#5 IDYLLE EXPRESS": {
+          "odds": 4.7,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#6 INDUS VAL": {
+          "odds": 11.0,
+          "tendance": "+",
+          "magnitude": 0.86,
+          "favoris": false
+        },
+        "#7 JE REVE DU BOIS": {
+          "odds": 5.2,
+          "tendance": "-",
+          "magnitude": -1.88,
+          "favoris": false
+        },
+        "#8 INDY ROCK": {
+          "odds": 23.0,
+          "tendance": "+",
+          "magnitude": 1.29,
+          "favoris": false
+        },
+        "#9 IBIZA BELLA": {
+          "odds": 12.0,
+          "tendance": "+",
+          "magnitude": 0.81,
+          "favoris": false
+        },
+        "#10 COLBERT WF": {
+          "odds": 29.0,
+          "tendance": "+",
+          "magnitude": 0.68,
+          "favoris": false
+        },
+        "#11 INDY DARK": {
+          "odds": 24.0,
+          "tendance": "+",
+          "magnitude": 0.4,
+          "favoris": false
+        },
+        "#12 HAMILTON DU HAM": {
+          "odds": 29.0,
+          "tendance": "+",
+          "magnitude": 0.34,
+          "favoris": false
+        },
+        "#13 JEANNETTE PRIORY": {
+          "odds": 40.0,
+          "tendance": "+",
+          "magnitude": 1.0,
+          "favoris": false
+        },
+        "#14 IN RED": {
+          "odds": 14.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#15 GORDON MIJACK": {
+          "odds": 115.0,
+          "tendance": "+",
+          "magnitude": 0.78,
+          "favoris": false
+        },
+        "#16 INDIGO DE FONTAINE": {
+          "odds": 18.0,
+          "tendance": "+",
+          "magnitude": 0.55,
+          "favoris": false
+        }
+      }
+    },
+    "R1/C5": {
+      "hippodrome": "VINCENNES",
+      "label": "PRIX DU VAUCLUSE",
+      "heure": "13:50",
+      "horses": {
+        "#1 MARZIPAN": {
+          "odds": 94.0,
+          "tendance": "+",
+          "magnitude": 1.83,
+          "favoris": false
+        },
+        "#2 MIRAKALU MANAZIF": {
+          "odds": 26.0,
+          "tendance": "+",
+          "magnitude": 17.46,
+          "favoris": false
+        },
+        "#3 MUST ATOUT": {
+          "odds": 19.0,
+          "tendance": "+",
+          "magnitude": 18.45,
+          "favoris": false
+        },
+        "#4 MOLLY MADRIK": {
+          "odds": 14.0,
+          "tendance": "-",
+          "magnitude": -4.66,
+          "favoris": false
+        },
+        "#5 MARDOUK DE GODREL": {
+          "odds": 44.0,
+          "tendance": "+",
+          "magnitude": 9.8,
+          "favoris": false
+        },
+        "#6 MISTRAL DU BOIS": {
+          "odds": 6.0,
+          "tendance": "+",
+          "magnitude": 9.09,
+          "favoris": false
+        },
+        "#7 MAYA DU SURF": {
+          "odds": 24.0,
+          "tendance": "+",
+          "magnitude": 16.35,
+          "favoris": false
+        },
+        "#8 MAKE YOUR DAY": {
+          "odds": 17.0,
+          "tendance": "+",
+          "magnitude": 2.89,
+          "favoris": false
+        },
+        "#9 MANHATTAN EMGE": {
+          "odds": 10.0,
+          "tendance": "-",
+          "magnitude": -27.39,
+          "favoris": false
+        },
+        "#10 MENTOR DE PLAY": {
+          "odds": 2.1,
+          "tendance": "-",
+          "magnitude": -4.54,
+          "favoris": true
+        },
+        "#11 MAGICO DE LOU": {
+          "odds": 28.0,
+          "tendance": "+",
+          "magnitude": 12.89,
+          "favoris": false
+        },
+        "#12 MY PRINCESS": {
+          "odds": 33.0,
+          "tendance": "+",
+          "magnitude": 9.5,
+          "favoris": false
+        },
+        "#13 MIDWAY LADY": {
+          "odds": 5.2,
+          "tendance": "-",
+          "magnitude": -14.75,
+          "favoris": false
+        }
+      }
+    },
+    "R1/C6": {
+      "hippodrome": "VINCENNES",
+      "label": "PRIX ALBERT DEMARCQ",
+      "heure": "14:25",
+      "horses": {
+        "#1 LALUNA DES FORGES": {
+          "odds": 24.0,
+          "tendance": "+",
+          "magnitude": 4.74,
+          "favoris": false
+        },
+        "#2 LIZZANO D'ALOUETTE": {
+          "odds": 82.0,
+          "tendance": "+",
+          "magnitude": 0.48,
+          "favoris": false
+        },
+        "#3 LUPIN D'OLMEN": {
+          "odds": 23.0,
+          "tendance": "+",
+          "magnitude": 4.44,
+          "favoris": false
+        },
+        "#4 LORD DU BASSIN": {
+          "odds": 24.0,
+          "tendance": "+",
+          "magnitude": 0.82,
+          "favoris": false
+        },
+        "#5 LOULOU DE MYE": {
+          "odds": 81.0,
+          "tendance": "+",
+          "magnitude": 1.37,
+          "favoris": false
+        },
+        "#6 LEARN TO FLY": {
+          "odds": 32.0,
+          "tendance": "+",
+          "magnitude": 9.12,
+          "favoris": false
+        },
+        "#7 LISBONNE DRY": {
+          "odds": 69.0,
+          "tendance": "+",
+          "magnitude": 9.92,
+          "favoris": false
+        },
+        "#8 LIBERTE DE CHOISEL": {
+          "odds": 5.9,
+          "tendance": "+",
+          "magnitude": 3.5,
+          "favoris": false
+        },
+        "#9 L'AS DESBOIS": {
+          "odds": 7.5,
+          "tendance": "-",
+          "magnitude": -5.06,
+          "favoris": false
+        },
+        "#10 LANCIER DU GOUTIER": {
+          "odds": 1.8,
+          "tendance": "-",
+          "magnitude": -5.26,
+          "favoris": true
+        },
+        "#11 LIONHEART": {
+          "odds": 97.0,
+          "tendance": "+",
+          "magnitude": 6.34,
+          "favoris": false
+        },
+        "#12 LOMBOK JIEL": {
+          "odds": 7.6,
+          "tendance": "+",
+          "magnitude": 1.33,
+          "favoris": false
+        }
+      }
+    },
+    "R1/C7": {
+      "hippodrome": "VINCENNES",
+      "label": "PRIX DE COMBREE",
+      "heure": "15:07",
+      "horses": {
+        "#1 ISIS D'HERFRAIE": {
+          "odds": 109.0,
+          "tendance": "-",
+          "magnitude": -0.54,
+          "favoris": false
+        },
+        "#2 KARLITO": {
+          "odds": 133.0,
+          "tendance": "-",
+          "magnitude": -3.6,
+          "favoris": false
+        },
+        "#3 GUMP DU PONCELET": {
+          "odds": 40.0,
+          "tendance": "-",
+          "magnitude": -1.47,
+          "favoris": false
+        },
+        "#4 GOLD D'ECROVILLE": {
+          "odds": 49.0,
+          "tendance": "-",
+          "magnitude": -2.57,
+          "favoris": false
+        },
+        "#5 INDIEN DE FONTAINE": {
+          "odds": 53.0,
+          "tendance": "-",
+          "magnitude": -0.73,
+          "favoris": false
+        },
+        "#6 JOLIE STAR": {
+          "odds": 7.5,
+          "tendance": "-",
+          "magnitude": -2.59,
+          "favoris": true
+        },
+        "#7 IRIS FROM": {
+          "odds": 64.0,
+          "tendance": "+",
+          "magnitude": 0.3,
+          "favoris": false
+        },
+        "#8 KELLE BEAUTE": {
+          "odds": 13.0,
+          "tendance": "-",
+          "magnitude": -9.09,
+          "favoris": false
+        },
+        "#9 INSHOT JOSSELYN": {
+          "odds": 166.0,
+          "tendance": "+",
+          "magnitude": 1.21,
+          "favoris": false
+        },
+        "#10 GALION": {
+          "odds": 77.0,
+          "tendance": "-",
+          "magnitude": -1.77,
+          "favoris": false
+        },
+        "#11 KHAL'S FELLA": {
+          "odds": 13.0,
+          "tendance": "-",
+          "magnitude": -4.37,
+          "favoris": false
+        },
+        "#12 HORS BORD": {
+          "odds": 26.0,
+          "tendance": "-",
+          "magnitude": -2.23,
+          "favoris": false
+        },
+        "#13 HISTOIRE PHILS": {
+          "odds": 54.0,
+          "tendance": "+",
+          "magnitude": 0.55,
+          "favoris": false
+        }
+      }
+    },
+    "R1/C8": {
+      "hippodrome": "VINCENNES",
+      "label": "PRIX ROGER LEDOYEN",
+      "heure": "15:39",
+      "horses": {
+        "#1 HASARD": {
+          "odds": 32.0,
+          "tendance": "-",
+          "magnitude": -0.3,
+          "favoris": false
+        },
+        "#2 HEVA BLONDE": {
+          "odds": 16.0,
+          "tendance": "+",
+          "magnitude": 2.43,
+          "favoris": false
+        },
+        "#3 KAYA DREAM": {
+          "odds": 21.0,
+          "tendance": "-",
+          "magnitude": -5.28,
+          "favoris": false
+        },
+        "#4 JACARANDA": {
+          "odds": 2.2,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#5 IT'S MY DREAM": {
+          "odds": 20.0,
+          "tendance": "+",
+          "magnitude": 1.99,
+          "favoris": false
+        },
+        "#6 HAIDA SAUTONNE": {
+          "odds": 36.0,
+          "tendance": "+",
+          "magnitude": 1.94,
+          "favoris": false
+        },
+        "#7 HARRY LE BEAU": {
+          "odds": 35.0,
+          "tendance": "+",
+          "magnitude": 1.99,
+          "favoris": false
+        },
+        "#8 GO OR NOT": {
+          "odds": 23.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#9 HARMONISTA": {
+          "odds": 28.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#10 J'AIME LE FOOT": {
+          "odds": 7.5,
+          "tendance": "+",
+          "magnitude": 2.73,
+          "favoris": false
+        },
+        "#11 FILOU D'ANJOU": {
+          "odds": 13.0,
+          "tendance": "+",
+          "magnitude": 2.27,
+          "favoris": false
+        },
+        "#12 HALFA": {
+          "odds": 22.0,
+          "tendance": "+",
+          "magnitude": 1.36,
+          "favoris": false
+        },
+        "#13 KAPAULA DE L'EPINE": {
+          "odds": 9.2,
+          "tendance": "+",
+          "magnitude": 1.09,
+          "favoris": false
+        },
+        "#14 KYT KAT": {
+          "odds": 23.0,
+          "tendance": "-",
+          "magnitude": -1.27,
+          "favoris": false
+        }
+      }
+    },
+    "R1/C9": {
+      "hippodrome": "VINCENNES",
+      "label": "PRIX DE GARABIT",
+      "heure": "16:11",
+      "horses": {
+        "#1 JUST A LADY (DEN)": {
+          "odds": 5.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#2 IMAGE D'ATALANTE": {
+          "odds": 32.0,
+          "tendance": "-",
+          "magnitude": -0.61,
+          "favoris": false
+        },
+        "#3 KRYSTAL PIYA": {
+          "odds": 8.7,
+          "tendance": "-",
+          "magnitude": -3.33,
+          "favoris": false
+        },
+        "#4 KENTUCKY IDEAL": {
+          "odds": 15.0,
+          "tendance": "-",
+          "magnitude": -1.3,
+          "favoris": false
+        },
+        "#5 EVERY TIME WINNER": {
+          "odds": 7.9,
+          "tendance": "+",
+          "magnitude": 1.28,
+          "favoris": false
+        },
+        "#6 MISTER INVICTUS": {
+          "odds": 124.0,
+          "tendance": "+",
+          "magnitude": 2.47,
+          "favoris": false
+        },
+        "#7 KINGSLAND DE SIMM": {
+          "odds": 10.0,
+          "tendance": "+",
+          "magnitude": 1.01,
+          "favoris": false
+        },
+        "#8 KATCHI QUICK": {
+          "odds": 3.9,
+          "tendance": "+",
+          "magnitude": 2.63,
+          "favoris": true
+        },
+        "#9 IRRESISTIBLE PAJ": {
+          "odds": 20.0,
+          "tendance": "+",
+          "magnitude": 1.51,
+          "favoris": false
+        },
+        "#10 KEVIN PRINCE": {
+          "odds": 34.0,
+          "tendance": "+",
+          "magnitude": 1.78,
+          "favoris": false
+        },
+        "#11 DONIZETTI (SWE)": {
+          "odds": 176.0,
+          "tendance": "-",
+          "magnitude": -7.52,
+          "favoris": false
+        },
+        "#12 KAPITANO DE SOURCE": {
+          "odds": 118.0,
+          "tendance": "+",
+          "magnitude": 0.25,
+          "favoris": false
+        },
+        "#13 JUNKIE (SWE)": {
+          "odds": 20.0,
+          "tendance": "-",
+          "magnitude": -1.87,
+          "favoris": false
+        },
+        "#14 DENIA": {
+          "odds": 19.0,
+          "tendance": "+",
+          "magnitude": 1.01,
+          "favoris": false
+        },
+        "#15 ISLA (GER)": {
+          "odds": 22.0,
+          "tendance": "-",
+          "magnitude": -0.44,
+          "favoris": false
+        },
+        "#16 DADA DEL RONCO": {
+          "odds": 33.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R2/C1": {
+      "hippodrome": "AVENCHES",
+      "label": "PRIX DES ELITES                         SUISSE",
+      "heure": "08:35",
+      "horses": {
+        "#1 KLARCK DE VANDEL": {
+          "odds": 4.3,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#2 KATTOBA": {
+          "odds": 60.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#3 LASER DE JOUDES": {
+          "odds": 4.6,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#4 VAMOS CD": {
+          "odds": 25.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#5 ESPADA": {
+          "odds": 9.2,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#6 LE MONEY": {
+          "odds": 2.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#7 KEEP AND GO": {
+          "odds": 14.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R2/C2": {
+      "hippodrome": "AVENCHES",
+      "label": "PRIX DES VIOLETTES                      SUISSE",
+      "heure": "09:02",
+      "horses": {
+        "#1 FAST DE LA FENETTE": {
+          "odds": 56.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#2 JOHN DU MARTZA": {
+          "odds": 9.1,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#3 FLAVIO": {
+          "odds": 47.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#4 SOUNDTRACK": {
+          "odds": 2.1,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#5 KNATTIGA": {
+          "odds": 7.9,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#6 SIR EXPRESS": {
+          "odds": 7.3,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#7 HEROS JARZEEN": {
+          "odds": 45.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#8 MIDNIGHT BLUES": {
+          "odds": 3.6,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R2/C3": {
+      "hippodrome": "AVENCHES",
+      "label": "PRIX DES TULIPES                        SUISSE",
+      "heure": "09:38",
+      "horses": {
+        "#1 EIGHT": {
+          "odds": 79.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#2 IDEM DU PONT": {
+          "odds": 2.7,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#3 FALCO DU HAMEL": {
+          "odds": 38.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#4 HARO BOTEURMOEL": {
+          "odds": 21.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#5 HATLAS DE MOUTIERS": {
+          "odds": 5.8,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#6 HYPOKHAGNE": {
+          "odds": 3.8,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#7 DIVA DU FOSSE": {
+          "odds": 52.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#8 JOHAN DU MARTZA": {
+          "odds": 3.6,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R2/C4": {
+      "hippodrome": "AVENCHES",
+      "label": "PRIX DES PAQUERETTES                    SUISSE",
+      "heure": "10:13",
+      "horses": {
+        "#1 HERMES SOMOLLI": {
+          "odds": 81.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#2 JOENATO DARK": {
+          "odds": 9.6,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#3 JAZZY JANE": {
+          "odds": 81.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#4 JADIS": {
+          "odds": 104.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#5 INEXES DU MARTZA": {
+          "odds": 1.7,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#6 INDICE DES BROUETS": {
+          "odds": 35.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#7 JAKAPONK DAXEL": {
+          "odds": 66.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#8 GO FOR JET": {
+          "odds": 50.0,
+          "tendance": "+",
+          "magnitude": 16.82,
+          "favoris": false
+        },
+        "#9 JIVARO D'HERMINE": {
+          "odds": 25.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#10 LATTIFO": {
+          "odds": 6.2,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#11 KIMCHI D'ELIOTT": {
+          "odds": 4.9,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R2/C5": {
+      "hippodrome": "AVENCHES",
+      "label": "PRIX DES JONQUILLES                     SUISSE",
+      "heure": "10:48",
+      "horses": {
+        "#1 FANTASTIC GIRL": {
+          "odds": 10.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#2 KAPORAL DES BORDES": {
+          "odds": 17.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#3 MAESTRO CAILLERIE": {
+          "odds": 8.5,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#4 MANATTOGA": {
+          "odds": 2.3,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#5 MAGARI N CAVIAR": {
+          "odds": 6.7,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#6 MATTJASTO": {
+          "odds": 40.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#7 KIARA DU COPY": {
+          "odds": 49.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#8 LUX DES PRES": {
+          "odds": 53.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#9 KEA DES ECUS": {
+          "odds": 7.2,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#10 KOLD D'ECHAL": {
+          "odds": 24.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#11 LIBERTY D'OURVILLE": {
+          "odds": 83.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#12 LEADER WOOD": {
+          "odds": 14.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R3/C1": {
+      "hippodrome": "AUTEUIL",
+      "label": "PRIX VIEUX BEAUFAI",
+      "heure": "09:20",
+      "horses": {
+        "#1 MASTER BLASTER": {
+          "odds": 10.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#2 VOLODYMYR": {
+          "odds": 37.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#3 SANGRE DE DRAGO": {
+          "odds": 18.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#4 SHADES": {
+          "odds": 6.9,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#5 HIGH THE MOON": {
+          "odds": 11.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#6 TEEN SPIRIT": {
+          "odds": 1.9,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#7 SANTCOKO": {
+          "odds": 11.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#8 POPULAS": {
+          "odds": 33.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#9 DE TOUT COEUR": {
+          "odds": 8.7,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#10 IT'S MILANNA": {
+          "odds": 57.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R3/C2": {
+      "hippodrome": "AUTEUIL",
+      "label": "PRIX DE LA VANOISE",
+      "heure": "09:57",
+      "horses": {
+        "#1 SILVER DES CARRES": {
+          "odds": 5.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#2 KING MARCEAU": {
+          "odds": 6.2,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#3 NEIL DU SEUIL": {
+          "odds": 3.2,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#4 CLOVIS DESBROUSSES": {
+          "odds": 80.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#5 NUIQARAKSTAR": {
+          "odds": 16.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#6 BEYOND THE CLOUD": {
+          "odds": 11.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#7 PETIT PIERRE": {
+          "odds": 22.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#8 DEAL DAILY": {
+          "odds": 4.8,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#9 MR SOMEBODY": {
+          "odds": 14.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#10 SWEET LORD": {
+          "odds": 58.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R3/C3": {
+      "hippodrome": "AUTEUIL",
+      "label": "PRIX ANDREA",
+      "heure": "10:30",
+      "horses": {
+        "#1 UN CHIC CHEVAL": {
+          "odds": 8.5,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#2 LE ROI DAVID": {
+          "odds": 7.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#3 MAGUELON": {
+          "odds": 11.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#4 LECOEURDESHOMMES": {
+          "odds": 4.4,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#5 SIR MARVEL": {
+          "odds": 32.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#6 LISKARIA": {
+          "odds": 4.1,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#7 LA MARCHE BLEUE": {
+          "odds": 7.9,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#8 KADOR DE CIERGUES": {
+          "odds": 10.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#9 LEGOLAS TEK": {
+          "odds": 9.7,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R3/C4": {
+      "hippodrome": "AUTEUIL",
+      "label": "PRIX BURGRAVE II",
+      "heure": "11:05",
+      "horses": {
+        "#1 DREAM D'ARMOR": {
+          "odds": 29.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#2 ALANA MOON": {
+          "odds": 4.1,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#3 PAR ICI LA MONNAIE": {
+          "odds": 5.3,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#5 DAME ST ELOI": {
+          "odds": 7.8,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#6 NEBULEUSE'K": {
+          "odds": 44.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#7 BRICCONCELLA": {
+          "odds": 36.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#8 KELLY CHIRON": {
+          "odds": 5.2,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#9 SUBLI CHOPE": {
+          "odds": 4.1,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#10 ROSA MIA": {
+          "odds": 10.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R3/C5": {
+      "hippodrome": "AUTEUIL",
+      "label": "PRIX RIGOLETTO",
+      "heure": "11:40",
+      "horses": {
+        "#1 WELLS PARK": {
+          "odds": 58.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#2 SPECIALS ONE": {
+          "odds": 9.3,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#3 LEADER CONTI": {
+          "odds": 31.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#4 LUMINO BELLO": {
+          "odds": 7.9,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#5 ROSEMALE HAS": {
+          "odds": 77.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#6 LE ROUGE EST MIS": {
+          "odds": 21.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#7 HAPPY PEOPLE": {
+          "odds": 69.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#8 HASSADAM": {
+          "odds": 1.8,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#9 LURON D'OUDAIRIES": {
+          "odds": 42.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#10 TANTE ZENA": {
+          "odds": 4.5,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#11 LORELEY DES PLACES": {
+          "odds": 27.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R3/C6": {
+      "hippodrome": "AUTEUIL",
+      "label": "PRIX D'ARLES",
+      "heure": "12:19",
+      "horses": {
+        "#1 MISS WOOD": {
+          "odds": 6.9,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#2 TARINA": {
+          "odds": 16.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#3 CHOUCHOU D'ANJOU": {
+          "odds": 35.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#4 NOIRE WULF": {
+          "odds": 2.8,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#5 DINADAME": {
+          "odds": 14.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#6 MYSOKO STAR": {
+          "odds": 12.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#7 MILLARES": {
+          "odds": 4.4,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#8 QUART D'ESPOIR": {
+          "odds": 8.4,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#9 AZOTE": {
+          "odds": 34.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#10 HOLY GREY": {
+          "odds": 17.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R3/C7": {
+      "hippodrome": "AUTEUIL",
+      "label": "PRIX ARTHUR VEIL-PICARD",
+      "heure": "12:55",
+      "horses": {
+        "#1 SYSKO": {
+          "odds": 11.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#2 HEROS D'AINAY": {
+          "odds": 5.1,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#3 SPEED EMILE": {
+          "odds": 4.7,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#4 JILAIJONE": {
+          "odds": 28.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#5 DUNSTALL RAMBLER": {
+          "odds": 22.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#6 JAPON": {
+          "odds": 4.7,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#7 DAZODREAM": {
+          "odds": 11.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#8 JOHNNY ROQUE": {
+          "odds": 7.2,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#9 KOKIN": {
+          "odds": 51.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#10 MR DIAFOIRUS": {
+          "odds": 21.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#11 LEMNOS": {
+          "odds": 11.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R3/C8": {
+      "hippodrome": "AUTEUIL",
+      "label": "PRIX QUOMODO",
+      "heure": "13:32",
+      "horses": {
+        "#1 LASCA DE THAIX": {
+          "odds": 30.0,
+          "tendance": "-",
+          "magnitude": -0.64,
+          "favoris": false
+        },
+        "#2 LESTRU": {
+          "odds": 3.7,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#3 TITI DE PARIS": {
+          "odds": 6.6,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#4 ASTORIUS": {
+          "odds": 11.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#5 LE KARMA": {
+          "odds": 14.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#6 MISS ALTEA BLUE": {
+          "odds": 11.0,
+          "tendance": "-",
+          "magnitude": -0.86,
+          "favoris": false
+        },
+        "#7 OXMO DU MATHAN": {
+          "odds": 37.0,
+          "tendance": "+",
+          "magnitude": 0.53,
+          "favoris": false
+        },
+        "#8 MANIYSA BLEUE": {
+          "odds": 22.0,
+          "tendance": "-",
+          "magnitude": -0.43,
+          "favoris": false
+        },
+        "#9 LASCAR D'AIRY": {
+          "odds": 11.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#10 LA VALETTE": {
+          "odds": 18.0,
+          "tendance": "+",
+          "magnitude": 0.53,
+          "favoris": false
+        },
+        "#11 EXCITING HUNT": {
+          "odds": 21.0,
+          "tendance": "+",
+          "magnitude": 0.45,
+          "favoris": false
+        },
+        "#12 REMEMBRANCE": {
+          "odds": 12.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#13 SOBEST": {
+          "odds": 28.0,
+          "tendance": "+",
+          "magnitude": 0.35,
+          "favoris": false
+        },
+        "#14 LIEN DU CHOEUR": {
+          "odds": 9.4,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R4/C1": {
+      "hippodrome": "ANGERS",
+      "label": "PRIX ROBERT LAVALLEE",
+      "heure": "14:07",
+      "horses": {
+        "#1 AZAMITA": {
+          "odds": 1.3,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#2 AL GHARIYA": {
+          "odds": 28.0,
+          "tendance": "+",
+          "magnitude": 4.41,
+          "favoris": false
+        },
+        "#3 SILVAROLE FAL": {
+          "odds": 64.0,
+          "tendance": "-",
+          "magnitude": -0.46,
+          "favoris": false
+        },
+        "#4 LOVING QUEEN": {
+          "odds": 52.0,
+          "tendance": "+",
+          "magnitude": 5.0,
+          "favoris": false
+        },
+        "#5 MALENA": {
+          "odds": 42.0,
+          "tendance": "+",
+          "magnitude": 0.47,
+          "favoris": false
+        },
+        "#7 GWADA CONCEPT": {
+          "odds": 28.0,
+          "tendance": "+",
+          "magnitude": 0.69,
+          "favoris": false
+        },
+        "#8 MARAKANA": {
+          "odds": 15.0,
+          "tendance": "+",
+          "magnitude": 2.01,
+          "favoris": false
+        },
+        "#9 BEST WAY": {
+          "odds": 41.0,
+          "tendance": "+",
+          "magnitude": 5.05,
+          "favoris": false
+        },
+        "#10 LILLY'S LIGHT": {
+          "odds": 55.0,
+          "tendance": "+",
+          "magnitude": 3.73,
+          "favoris": false
+        },
+        "#11 TOSCANE": {
+          "odds": 8.9,
+          "tendance": "-",
+          "magnitude": -10.99,
+          "favoris": false
+        },
+        "#12 ASTRAL DREAM": {
+          "odds": 12.0,
+          "tendance": "+",
+          "magnitude": 2.38,
+          "favoris": false
+        },
+        "#13 POLCA": {
+          "odds": 93.0,
+          "tendance": "-",
+          "magnitude": -1.78,
+          "favoris": false
+        }
+      }
+    },
+    "R4/C2": {
+      "hippodrome": "ANGERS",
+      "label": "PRIX DE CHATEAUBRIANT",
+      "heure": "14:50",
+      "horses": {
+        "#1 FORZA SEDACA": {
+          "odds": 10.0,
+          "tendance": "+",
+          "magnitude": 4.12,
+          "favoris": false
+        },
+        "#2 LE SAGE": {
+          "odds": 4.0,
+          "tendance": "+",
+          "magnitude": 5.26,
+          "favoris": true
+        },
+        "#3 SOLIGNY": {
+          "odds": 12.0,
+          "tendance": "-",
+          "magnitude": -13.38,
+          "favoris": false
+        },
+        "#4 EXCESSIVENESS": {
+          "odds": 18.0,
+          "tendance": "+",
+          "magnitude": 4.04,
+          "favoris": false
+        },
+        "#5 MISSRIYA": {
+          "odds": 25.0,
+          "tendance": "-",
+          "magnitude": -1.17,
+          "favoris": false
+        },
+        "#6 ZAMASIYA": {
+          "odds": 18.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#7 SASKIA DES PLACES": {
+          "odds": 10.0,
+          "tendance": "+",
+          "magnitude": 7.14,
+          "favoris": false
+        },
+        "#8 SYNERGETIC": {
+          "odds": 15.0,
+          "tendance": "+",
+          "magnitude": 5.51,
+          "favoris": false
+        },
+        "#9 THE PRESIDENT": {
+          "odds": 38.0,
+          "tendance": "-",
+          "magnitude": -3.79,
+          "favoris": false
+        },
+        "#10 NICE RULER": {
+          "odds": 8.6,
+          "tendance": "+",
+          "magnitude": 1.17,
+          "favoris": false
+        },
+        "#11 MAESTRAL": {
+          "odds": 44.0,
+          "tendance": "+",
+          "magnitude": 2.32,
+          "favoris": false
+        },
+        "#12 BECQUANIENTE": {
+          "odds": 16.0,
+          "tendance": "+",
+          "magnitude": 4.37,
+          "favoris": false
+        },
+        "#13 ANTAIOS": {
+          "odds": 14.0,
+          "tendance": "+",
+          "magnitude": 2.14,
+          "favoris": false
+        },
+        "#14 HADYA": {
+          "odds": 14.0,
+          "tendance": "+",
+          "magnitude": 2.06,
+          "favoris": false
+        },
+        "#15 WATT OHM": {
+          "odds": 5.3,
+          "tendance": "-",
+          "magnitude": -7.01,
+          "favoris": false
+        },
+        "#16 PRINCESS KARA": {
+          "odds": 13.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R4/C3": {
+      "hippodrome": "ANGERS",
+      "label": "PRIX DE VICHY",
+      "heure": "15:23",
+      "horses": {
+        "#1 RED GRACE": {
+          "odds": 8.4,
+          "tendance": "-",
+          "magnitude": -2.32,
+          "favoris": false
+        },
+        "#2 LUNATICOS": {
+          "odds": 26.0,
+          "tendance": "+",
+          "magnitude": 3.16,
+          "favoris": false
+        },
+        "#3 BAIKAL": {
+          "odds": 15.0,
+          "tendance": "+",
+          "magnitude": 0.64,
+          "favoris": false
+        },
+        "#4 SCAT LADY": {
+          "odds": 8.7,
+          "tendance": "+",
+          "magnitude": 4.81,
+          "favoris": false
+        },
+        "#5 CATHERINE'S GIFT": {
+          "odds": 15.0,
+          "tendance": "+",
+          "magnitude": 4.05,
+          "favoris": false
+        },
+        "#6 AGELKA": {
+          "odds": 17.0,
+          "tendance": "-",
+          "magnitude": -17.37,
+          "favoris": false
+        },
+        "#7 PLUMBAGO": {
+          "odds": 12.0,
+          "tendance": "+",
+          "magnitude": 3.36,
+          "favoris": false
+        },
+        "#8 MITCHI": {
+          "odds": 35.0,
+          "tendance": "+",
+          "magnitude": 5.27,
+          "favoris": false
+        },
+        "#9 THE WHEEL": {
+          "odds": 18.0,
+          "tendance": "+",
+          "magnitude": 2.27,
+          "favoris": false
+        },
+        "#10 LADY DU SAPHIR": {
+          "odds": 9.0,
+          "tendance": "-",
+          "magnitude": -19.64,
+          "favoris": false
+        },
+        "#11 ILLUSTRE BERE": {
+          "odds": 5.9,
+          "tendance": "+",
+          "magnitude": 3.5,
+          "favoris": true
+        },
+        "#12 SANDON": {
+          "odds": 35.0,
+          "tendance": "+",
+          "magnitude": 5.29,
+          "favoris": false
+        },
+        "#13 SIXUNION": {
+          "odds": 12.0,
+          "tendance": "+",
+          "magnitude": 4.27,
+          "favoris": false
+        },
+        "#14 GOOD QUESTION": {
+          "odds": 13.0,
+          "tendance": "+",
+          "magnitude": 4.79,
+          "favoris": false
+        },
+        "#15 IN THE ARMY NOW": {
+          "odds": 12.0,
+          "tendance": "+",
+          "magnitude": 5.93,
+          "favoris": false
+        }
+      }
+    },
+    "R4/C4": {
+      "hippodrome": "ANGERS",
+      "label": "PRIX IMPRIMERIE BLIN",
+      "heure": "15:55",
+      "horses": {
+        "#1 DALIASIR": {
+          "odds": 2.4,
+          "tendance": "+",
+          "magnitude": 4.34,
+          "favoris": true
+        },
+        "#2 ALLEZ FRERES": {
+          "odds": 16.0,
+          "tendance": "-",
+          "magnitude": -4.62,
+          "favoris": false
+        },
+        "#3 HORAGE": {
+          "odds": 13.0,
+          "tendance": "+",
+          "magnitude": 2.36,
+          "favoris": false
+        },
+        "#4 LE CITADIN": {
+          "odds": 8.8,
+          "tendance": "+",
+          "magnitude": 2.32,
+          "favoris": false
+        },
+        "#5 SHAPESMITH": {
+          "odds": 5.0,
+          "tendance": "-",
+          "magnitude": -5.66,
+          "favoris": false
+        },
+        "#6 MICOCOULIER STREET": {
+          "odds": 20.0,
+          "tendance": "+",
+          "magnitude": 3.49,
+          "favoris": false
+        },
+        "#7 PATRIARCHE": {
+          "odds": 23.0,
+          "tendance": "+",
+          "magnitude": 0.43,
+          "favoris": false
+        },
+        "#8 SARENZO": {
+          "odds": 4.6,
+          "tendance": "-",
+          "magnitude": -2.12,
+          "favoris": false
+        }
+      }
+    },
+    "R4/C5": {
+      "hippodrome": "ANGERS",
+      "label": "PRIX DE COMPIEGNE",
+      "heure": "16:27",
+      "horses": {
+        "#1 BAHIA WARANA": {
+          "odds": 19.0,
+          "tendance": "+",
+          "magnitude": 2.63,
+          "favoris": false
+        },
+        "#2 TESTIPEDRO": {
+          "odds": 28.0,
+          "tendance": "+",
+          "magnitude": 2.86,
+          "favoris": false
+        },
+        "#3 MEARAS STYLE": {
+          "odds": 11.0,
+          "tendance": "+",
+          "magnitude": 3.53,
+          "favoris": false
+        },
+        "#4 ANNA MANDARA": {
+          "odds": 14.0,
+          "tendance": "+",
+          "magnitude": 4.19,
+          "favoris": false
+        },
+        "#5 LIBERTE CHERIE": {
+          "odds": 7.5,
+          "tendance": "+",
+          "magnitude": 1.35,
+          "favoris": false
+        },
+        "#6 PRINCESS LAURA": {
+          "odds": 15.0,
+          "tendance": "+",
+          "magnitude": 3.99,
+          "favoris": false
+        },
+        "#7 COSQUER VRAS": {
+          "odds": 19.0,
+          "tendance": "+",
+          "magnitude": 5.29,
+          "favoris": false
+        },
+        "#8 LANDARYNA": {
+          "odds": 7.0,
+          "tendance": "+",
+          "magnitude": 4.47,
+          "favoris": true
+        },
+        "#9 LIGHTED GLORY": {
+          "odds": 11.0,
+          "tendance": "-",
+          "magnitude": -1.75,
+          "favoris": false
+        },
+        "#10 NEW TOWN": {
+          "odds": 15.0,
+          "tendance": "+",
+          "magnitude": 5.63,
+          "favoris": false
+        },
+        "#11 PREFERENCIA": {
+          "odds": 13.0,
+          "tendance": "+",
+          "magnitude": 5.46,
+          "favoris": false
+        },
+        "#12 PALMEIRA EMERY": {
+          "odds": 18.0,
+          "tendance": "+",
+          "magnitude": 2.23,
+          "favoris": false
+        },
+        "#13 DETESNOUVELLES": {
+          "odds": 9.9,
+          "tendance": "-",
+          "magnitude": -30.28,
+          "favoris": false
+        },
+        "#14 FIRST DREM": {
+          "odds": 12.0,
+          "tendance": "+",
+          "magnitude": 4.99,
+          "favoris": false
+        },
+        "#15 LADIVA": {
+          "odds": 13.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R4/C6": {
+      "hippodrome": "ANGERS",
+      "label": "PRIX OXYGENE RADIO (PRIX REGIS BERTIN)",
+      "heure": "17:00",
+      "horses": {
+        "#1 BLACK SWAN": {
+          "odds": 21.0,
+          "tendance": "-",
+          "magnitude": -3.16,
+          "favoris": false
+        },
+        "#2 MOONZIKNUIT": {
+          "odds": 20.0,
+          "tendance": "+",
+          "magnitude": 4.1,
+          "favoris": false
+        },
+        "#3 LOTUS": {
+          "odds": 10.0,
+          "tendance": "-",
+          "magnitude": -2.7,
+          "favoris": false
+        },
+        "#4 MIA LOT": {
+          "odds": 6.2,
+          "tendance": "+",
+          "magnitude": 1.63,
+          "favoris": false
+        },
+        "#5 DEAL": {
+          "odds": 9.3,
+          "tendance": "-",
+          "magnitude": -8.82,
+          "favoris": false
+        },
+        "#6 SPORT WOOD": {
+          "odds": 26.0,
+          "tendance": "+",
+          "magnitude": 2.36,
+          "favoris": false
+        },
+        "#7 WOLLEMI": {
+          "odds": 2.2,
+          "tendance": "+",
+          "magnitude": 4.76,
+          "favoris": true
+        },
+        "#8 VASUMATI": {
+          "odds": 23.0,
+          "tendance": "+",
+          "magnitude": 2.64,
+          "favoris": false
+        },
+        "#9 NEPETA": {
+          "odds": 37.0,
+          "tendance": "+",
+          "magnitude": 4.17,
+          "favoris": false
+        },
+        "#10 YAGGERA": {
+          "odds": 15.0,
+          "tendance": "-",
+          "magnitude": -9.52,
+          "favoris": false
+        },
+        "#11 GARIGA": {
+          "odds": 10.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R4/C7": {
+      "hippodrome": "ANGERS",
+      "label": "PRIX DE LA SERENITE",
+      "heure": "17:30",
+      "horses": {
+        "#1 I AM STILL STANDING": {
+          "odds": 6.3,
+          "tendance": "-",
+          "magnitude": -10.0,
+          "favoris": false
+        },
+        "#2 TCHIKITA": {
+          "odds": 5.7,
+          "tendance": "-",
+          "magnitude": -3.38,
+          "favoris": false
+        },
+        "#4 JOUR DE COEUR": {
+          "odds": 3.1,
+          "tendance": "-",
+          "magnitude": -3.12,
+          "favoris": true
+        },
+        "#5 RODCHENKO": {
+          "odds": 7.1,
+          "tendance": "+",
+          "magnitude": 5.97,
+          "favoris": false
+        },
+        "#6 VANINA RUNAWAY": {
+          "odds": 23.0,
+          "tendance": "+",
+          "magnitude": 7.79,
+          "favoris": false
+        },
+        "#7 ROSE PRAIRIE": {
+          "odds": 6.1,
+          "tendance": "+",
+          "magnitude": 5.17,
+          "favoris": false
+        },
+        "#8 LOVE ADDICT": {
+          "odds": 12.0,
+          "tendance": "+",
+          "magnitude": 6.61,
+          "favoris": false
+        },
+        "#9 NAIDEE": {
+          "odds": 26.0,
+          "tendance": "+",
+          "magnitude": 4.36,
+          "favoris": false
+        },
+        "#10 BABY JOY": {
+          "odds": 17.0,
+          "tendance": "+",
+          "magnitude": 8.07,
+          "favoris": false
+        }
+      }
+    },
+    "R4/C8": {
+      "hippodrome": "ANGERS",
+      "label": "PRIX DE LA POTARDIERE",
+      "heure": "18:00",
+      "horses": {
+        "#1 LOVE IS GOLD": {
+          "odds": 5.6,
+          "tendance": "+",
+          "magnitude": 1.81,
+          "favoris": true
+        },
+        "#2 GITANO": {
+          "odds": 5.6,
+          "tendance": "-",
+          "magnitude": -1.75,
+          "favoris": true
+        },
+        "#3 KER WELEN": {
+          "odds": 11.0,
+          "tendance": "-",
+          "magnitude": -4.95,
+          "favoris": false
+        },
+        "#4 I AM PARADOU": {
+          "odds": 5.6,
+          "tendance": "+",
+          "magnitude": 3.7,
+          "favoris": true
+        },
+        "#5 MIYALAA": {
+          "odds": 7.9,
+          "tendance": "-",
+          "magnitude": -3.65,
+          "favoris": false
+        },
+        "#6 TAMYZ": {
+          "odds": 6.3,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#7 KEANU": {
+          "odds": 13.0,
+          "tendance": "+",
+          "magnitude": 2.27,
+          "favoris": false
+        },
+        "#8 YELLOW HAWK": {
+          "odds": 13.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#9 SEA WAVE": {
+          "odds": 11.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#10 BOKRA FIL MISHMISH": {
+          "odds": 34.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R4/C9": {
+      "hippodrome": "ANGERS",
+      "label": "PRIX PLANTAGENET - PRIX RACE AND CARE",
+      "heure": "18:30",
+      "horses": {
+        "#2 GYPSY DEVIL": {
+          "odds": 50.0,
+          "tendance": "+",
+          "magnitude": 1.8,
+          "favoris": false
+        },
+        "#3 THESIGER": {
+          "odds": 39.0,
+          "tendance": "+",
+          "magnitude": 2.08,
+          "favoris": false
+        },
+        "#4 HURRICANGO": {
+          "odds": 8.7,
+          "tendance": "-",
+          "magnitude": -5.43,
+          "favoris": false
+        },
+        "#5 PERFECT TIGER": {
+          "odds": 21.0,
+          "tendance": "+",
+          "magnitude": 1.86,
+          "favoris": false
+        },
+        "#6 DARK SECRET": {
+          "odds": 1.5,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#7 VICTORY GATSBY": {
+          "odds": 12.0,
+          "tendance": "+",
+          "magnitude": 0.83,
+          "favoris": false
+        },
+        "#8 BIRCHPACOLAURGREEN": {
+          "odds": 24.0,
+          "tendance": "-",
+          "magnitude": -4.96,
+          "favoris": false
+        },
+        "#9 SHANA LISES": {
+          "odds": 52.0,
+          "tendance": "+",
+          "magnitude": 1.94,
+          "favoris": false
+        },
+        "#10 OBJECTIVE ONE": {
+          "odds": 27.0,
+          "tendance": "-",
+          "magnitude": -1.08,
+          "favoris": false
+        },
+        "#11 CRYSTAL LIGHT": {
+          "odds": 12.0,
+          "tendance": "-",
+          "magnitude": -1.59,
+          "favoris": false
+        },
+        "#12 HOSAKA": {
+          "odds": 17.0,
+          "tendance": "-",
+          "magnitude": -2.29,
+          "favoris": false
+        }
+      }
+    },
+    "R5/C1": {
+      "hippodrome": "PONT DE VIVAUX",
+      "label": "PRIX D'AUBAGNE",
+      "heure": "16:45",
+      "horses": {
+        "#1 GRECIAN BONANZA": {
+          "odds": 3.8,
+          "tendance": "+",
+          "magnitude": 5.55,
+          "favoris": true
+        },
+        "#2 THE DOCTOR": {
+          "odds": 9.6,
+          "tendance": "-",
+          "magnitude": -4.0,
+          "favoris": false
+        },
+        "#3 RIGOLETTOS": {
+          "odds": 4.7,
+          "tendance": "+",
+          "magnitude": 2.17,
+          "favoris": false
+        },
+        "#4 KERNO QUATZ": {
+          "odds": 22.0,
+          "tendance": "+",
+          "magnitude": 1.35,
+          "favoris": false
+        },
+        "#5 SOUS INFLUENCE": {
+          "odds": 7.9,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#6 BOSIOH": {
+          "odds": 7.1,
+          "tendance": "+",
+          "magnitude": 1.42,
+          "favoris": false
+        },
+        "#7 MERCI ELIE": {
+          "odds": 31.0,
+          "tendance": "+",
+          "magnitude": 3.28,
+          "favoris": false
+        },
+        "#8 HADEWIN": {
+          "odds": 47.0,
+          "tendance": "+",
+          "magnitude": 3.27,
+          "favoris": false
+        },
+        "#9 MUNGASHA": {
+          "odds": 30.0,
+          "tendance": "+",
+          "magnitude": 0.98,
+          "favoris": false
+        },
+        "#10 MUELHEIMER PERLE": {
+          "odds": 5.2,
+          "tendance": "-",
+          "magnitude": -7.14,
+          "favoris": false
+        }
+      }
+    },
+    "R5/C2": {
+      "hippodrome": "PONT DE VIVAUX",
+      "label": "PRIX DU REDON",
+      "heure": "17:15",
+      "horses": {
+        "#1 BALAGAN": {
+          "odds": 11.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#2 TENDER THOUGHTS": {
+          "odds": 6.6,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#3 SANKA CHOP": {
+          "odds": 5.4,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#4 DRAGON LOVE": {
+          "odds": 6.4,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#5 DISBAY": {
+          "odds": 3.4,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#6 RABBAH": {
+          "odds": 8.8,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#7 OLAF THE BIG ONE": {
+          "odds": 8.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#8 ILLOIS": {
+          "odds": 16.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R5/C3": {
+      "hippodrome": "PONT DE VIVAUX",
+      "label": "PRIX DES COLOMBES",
+      "heure": "17:45",
+      "horses": {
+        "#1 SAINT LAURENT": {
+          "odds": 4.1,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#2 MAC TYSON": {
+          "odds": 8.9,
+          "tendance": "-",
+          "magnitude": -1.11,
+          "favoris": false
+        },
+        "#3 ALEKSANDROVKA": {
+          "odds": 3.7,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#4 ZELZANA": {
+          "odds": 13.0,
+          "tendance": "+",
+          "magnitude": 1.55,
+          "favoris": false
+        },
+        "#5 LES PRINCES": {
+          "odds": 31.0,
+          "tendance": "+",
+          "magnitude": 1.29,
+          "favoris": false
+        },
+        "#6 ANDUGAL": {
+          "odds": 26.0,
+          "tendance": "-",
+          "magnitude": -2.57,
+          "favoris": false
+        },
+        "#7 WHAKA": {
+          "odds": 11.0,
+          "tendance": "+",
+          "magnitude": 1.73,
+          "favoris": false
+        },
+        "#8 MARIE LA CROIX": {
+          "odds": 6.2,
+          "tendance": "-",
+          "magnitude": -4.61,
+          "favoris": false
+        },
+        "#9 BELLA CRACK": {
+          "odds": 6.3,
+          "tendance": "+",
+          "magnitude": 1.61,
+          "favoris": false
+        }
+      }
+    },
+    "R5/C4": {
+      "hippodrome": "PONT DE VIVAUX",
+      "label": "PRIX DU JAS BLANC",
+      "heure": "18:15",
+      "horses": {
+        "#1 MEFIE TOI": {
+          "odds": 3.4,
+          "tendance": "-",
+          "magnitude": -2.85,
+          "favoris": true
+        },
+        "#2 BALTA": {
+          "odds": 3.6,
+          "tendance": "+",
+          "magnitude": 2.85,
+          "favoris": false
+        },
+        "#3 SCHACHEN": {
+          "odds": 8.2,
+          "tendance": "+",
+          "magnitude": 1.23,
+          "favoris": false
+        },
+        "#4 ESPRONCEDA": {
+          "odds": 14.0,
+          "tendance": "+",
+          "magnitude": 1.44,
+          "favoris": false
+        },
+        "#5 VALIENTE": {
+          "odds": 11.0,
+          "tendance": "+",
+          "magnitude": 0.85,
+          "favoris": false
+        },
+        "#6 POSSI": {
+          "odds": 31.0,
+          "tendance": "+",
+          "magnitude": 1.26,
+          "favoris": false
+        },
+        "#7 NEVER LOST": {
+          "odds": 4.1,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#8 NYMPHEAS": {
+          "odds": 20.0,
+          "tendance": "+",
+          "magnitude": 1.01,
+          "favoris": false
+        }
+      }
+    },
+    "R5/C5": {
+      "hippodrome": "PONT DE VIVAUX",
+      "label": "PRIX DE LA TREVARESSE",
+      "heure": "18:45",
+      "horses": {
+        "#1 COTE D'OR": {
+          "odds": 3.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#2 THAT'S LIFE": {
+          "odds": 10.0,
+          "tendance": "+",
+          "magnitude": 0.99,
+          "favoris": false
+        },
+        "#3 IRELIA": {
+          "odds": 12.0,
+          "tendance": "+",
+          "magnitude": 0.82,
+          "favoris": false
+        },
+        "#4 MAGIC TREVILLE": {
+          "odds": 2.6,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#5 CHIVERE": {
+          "odds": 11.0,
+          "tendance": "+",
+          "magnitude": 0.88,
+          "favoris": false
+        },
+        "#6 DAYTON": {
+          "odds": 18.0,
+          "tendance": "+",
+          "magnitude": 1.08,
+          "favoris": false
+        },
+        "#7 NIGHT OF THE OPERA": {
+          "odds": 7.3,
+          "tendance": "+",
+          "magnitude": 1.38,
+          "favoris": false
+        }
+      }
+    },
+    "R5/C6": {
+      "hippodrome": "PONT DE VIVAUX",
+      "label": "PRIX DU PRINTEMPS",
+      "heure": "19:13",
+      "horses": {
+        "#1 LE DOC": {
+          "odds": 2.9,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#2 NOCTURNE BLOU": {
+          "odds": 14.0,
+          "tendance": "-",
+          "magnitude": -4.51,
+          "favoris": false
+        },
+        "#3 HORNIG": {
+          "odds": 4.3,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#4 BEWARE OF THE BEAR": {
+          "odds": 2.7,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#5 TEMADIVA": {
+          "odds": 6.1,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R5/C7": {
+      "hippodrome": "PONT DE VIVAUX",
+      "label": "PRIX RAYMOND MARTIN",
+      "heure": "19:41",
+      "horses": {
+        "#1 HEPBURN": {
+          "odds": 10.0,
+          "tendance": "+",
+          "magnitude": 0.98,
+          "favoris": false
+        },
+        "#2 PERSIANA": {
+          "odds": 10.0,
+          "tendance": "-",
+          "magnitude": -1.81,
+          "favoris": false
+        },
+        "#3 BASQUIAT": {
+          "odds": 6.8,
+          "tendance": "+",
+          "magnitude": 1.49,
+          "favoris": false
+        },
+        "#4 CATHERINE LA MER": {
+          "odds": 4.1,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#5 COUNSELOR": {
+          "odds": 4.2,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#6 TOREBEK": {
+          "odds": 2.8,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        }
+      }
+    },
+    "R6/C5": {
+      "hippodrome": "NEWMARKET",
+      "label": "2000 GUINEAS STAKES - WORLD POOL",
+      "heure": "14:35",
+      "horses": {
+        "#1 ALPARSLAN": {
+          "odds": 34.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#2 AVICENNA": {
+          "odds": 19.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#3 BILLECART": {
+          "odds": 70.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#4 BOW ECHO": {
+          "odds": 4.4,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#5 DISTANT STORM": {
+          "odds": 7.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#6 GSTAAD": {
+          "odds": 2.4,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#7 INTO THE SKY": {
+          "odds": 33.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#8 KING'S TRAIL": {
+          "odds": 8.5,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#9 LORD BRITAIN": {
+          "odds": 76.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#10 NEEDLE MATCH": {
+          "odds": 25.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#11 OXAGON": {
+          "odds": 15.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#12 PADRAIG DAWN": {
+          "odds": 64.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#13 POWER BLUE": {
+          "odds": 29.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#14 THESECRETADVERSARY": {
+          "odds": 32.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#15 VENETIAN PRINCE": {
+          "odds": 63.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R10/C1": {
+      "hippodrome": "SAINT MALO",
+      "label": "PRIX ASSO DES COURSES DE SAINT-BRIEUC",
+      "heure": "12:30",
+      "horses": {
+        "#1 NABUCCO YOREAL": {
+          "odds": 33.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#2 NARCOS DU NOYER": {
+          "odds": 2.3,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#3 NETWORK": {
+          "odds": 52.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#5 NOLA DU VIVIER": {
+          "odds": 17.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#6 NOAH DES MALBERAUX": {
+          "odds": 94.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#7 NUANCE DE STAR": {
+          "odds": 14.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#8 NEAL DE PERVENCHE": {
+          "odds": 6.3,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#9 NICKNAME BOND": {
+          "odds": 117.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#10 NORIGANO": {
+          "odds": 6.6,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#11 NIKYTA CIBEL": {
+          "odds": 29.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#12 NOTTINGHAM PLACE": {
+          "odds": 235.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#13 NEMO LUDOIS": {
+          "odds": 6.2,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#14 NEVERS DE BELLANDE": {
+          "odds": 21.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R10/C2": {
+      "hippodrome": "SAINT MALO",
+      "label": "PRIX ASSO DES COURSES DU MONT ST MICHEL",
+      "heure": "13:00",
+      "horses": {
+        "#1 MARVA KILY": {
+          "odds": 59.0,
+          "tendance": "+",
+          "magnitude": 0.68,
+          "favoris": false
+        },
+        "#2 MAYERLING DU BARNE": {
+          "odds": 67.0,
+          "tendance": "+",
+          "magnitude": 0.74,
+          "favoris": false
+        },
+        "#3 MOTACHA": {
+          "odds": 17.0,
+          "tendance": "+",
+          "magnitude": 1.15,
+          "favoris": false
+        },
+        "#4 MEMOIRE D'EPONA": {
+          "odds": 39.0,
+          "tendance": "+",
+          "magnitude": 0.51,
+          "favoris": false
+        },
+        "#5 MADISON SQUARE": {
+          "odds": 15.0,
+          "tendance": "+",
+          "magnitude": 0.66,
+          "favoris": false
+        },
+        "#6 MAXIMUS DECIMUS": {
+          "odds": 2.9,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#7 MANUREVA LOUNA": {
+          "odds": 29.0,
+          "tendance": "+",
+          "magnitude": 0.68,
+          "favoris": false
+        },
+        "#8 MUSE D'ECOUVES": {
+          "odds": 9.4,
+          "tendance": "-",
+          "magnitude": -3.09,
+          "favoris": false
+        },
+        "#9 MADE IN KACY": {
+          "odds": 5.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#10 MARTIN MOUROTAIS": {
+          "odds": 8.0,
+          "tendance": "+",
+          "magnitude": 1.26,
+          "favoris": false
+        },
+        "#11 MOZART D'ELORAC": {
+          "odds": 47.0,
+          "tendance": "+",
+          "magnitude": 0.63,
+          "favoris": false
+        },
+        "#12 MILORD DE MONTI": {
+          "odds": 9.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#13 MOOREA BOND": {
+          "odds": 33.0,
+          "tendance": "+",
+          "magnitude": 0.59,
+          "favoris": false
+        },
+        "#14 MALDA DU RIB": {
+          "odds": 59.0,
+          "tendance": "+",
+          "magnitude": 0.68,
+          "favoris": false
+        }
+      }
+    },
+    "R10/C3": {
+      "hippodrome": "SAINT MALO",
+      "label": "PRIX ASSO DES COURSES DE CORDEMAIS",
+      "heure": "13:30",
+      "horses": {
+        "#3 KANGOO DU CANTER": {
+          "odds": 9.8,
+          "tendance": "+",
+          "magnitude": 8.88,
+          "favoris": false
+        },
+        "#4 KOMREVEE DIESCHOOT": {
+          "odds": 9.8,
+          "tendance": "+",
+          "magnitude": 8.88,
+          "favoris": false
+        },
+        "#5 KALIE CHOUM": {
+          "odds": 9.8,
+          "tendance": "+",
+          "magnitude": 8.88,
+          "favoris": false
+        },
+        "#7 KOLMI DES EPINES": {
+          "odds": 4.9,
+          "tendance": "-",
+          "magnitude": -45.55,
+          "favoris": false
+        },
+        "#8 KAY": {
+          "odds": 3.2,
+          "tendance": "+",
+          "magnitude": 6.66,
+          "favoris": true
+        },
+        "#9 KING OF DAY": {
+          "odds": 9.8,
+          "tendance": "+",
+          "magnitude": 8.88,
+          "favoris": false
+        },
+        "#10 KADEAU DE L'AVRE": {
+          "odds": 9.8,
+          "tendance": "+",
+          "magnitude": 8.88,
+          "favoris": false
+        },
+        "#13 KAROLINE CADE": {
+          "odds": 6.5,
+          "tendance": "+",
+          "magnitude": 8.33,
+          "favoris": false
+        }
+      }
+    },
+    "R10/C4": {
+      "hippodrome": "SAINT MALO",
+      "label": "PRIX PRESIDENT PIERRE RAFFRE",
+      "heure": "14:00",
+      "horses": {
+        "#2 LEADER STREET": {
+          "odds": 2.7,
+          "tendance": "-",
+          "magnitude": -32.49,
+          "favoris": true
+        },
+        "#6 LADY PETTEVINIERE": {
+          "odds": 16.0,
+          "tendance": "+",
+          "magnitude": 15.6,
+          "favoris": false
+        },
+        "#7 LIEGO DU NOYER": {
+          "odds": 8.1,
+          "tendance": "+",
+          "magnitude": 15.71,
+          "favoris": false
+        },
+        "#10 LOGAN DES PRES": {
+          "odds": 16.0,
+          "tendance": "+",
+          "magnitude": 15.6,
+          "favoris": false
+        },
+        "#11 LUCKY SOTHO": {
+          "odds": 2.9,
+          "tendance": "+",
+          "magnitude": 15.99,
+          "favoris": false
+        },
+        "#12 LUCKY LOVE THANA": {
+          "odds": 16.0,
+          "tendance": "+",
+          "magnitude": 15.6,
+          "favoris": false
+        },
+        "#14 LATINO BELLO": {
+          "odds": 6.5,
+          "tendance": "+",
+          "magnitude": 16.07,
+          "favoris": false
+        }
+      }
+    },
+    "R10/C5": {
+      "hippodrome": "SAINT MALO",
+      "label": "PX ASSO DES COURSES DE MAURE DE BRETAGNE",
+      "heure": "14:30",
+      "horses": {
+        "#1 JAGERBOMB": {
+          "odds": 6.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#6 JUST A COUET": {
+          "odds": 6.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#11 ITONO DE MILLAC": {
+          "odds": 1.5,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#14 INVICTUS DE NILREM": {
+          "odds": 6.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R10/C6": {
+      "hippodrome": "SAINT MALO",
+      "label": "PRIX INSER GEDE (GR A)",
+      "heure": "15:00",
+      "horses": {
+        "#3 MY LADY CHOISEL": {
+          "odds": 1.1,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#11 MUST SPORT": {
+          "odds": 4.2,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R10/C7": {
+      "hippodrome": "SAINT MALO",
+      "label": "PRIX DE LA FEDERATION OUEST (GR B)",
+      "heure": "15:30",
+      "horses": {
+        "#6 MARITZA DU PERCHE": {
+          "odds": 6.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#9 MESSALINE": {
+          "odds": 2.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#10 MALO D'AVEL": {
+          "odds": 3.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        },
+        "#14 MISS BELLEVUE": {
+          "odds": 6.0,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    },
+    "R10/C8": {
+      "hippodrome": "SAINT MALO",
+      "label": "PRIX PATRICK MOTTIER",
+      "heure": "16:00",
+      "horses": {
+        "#6 JUST PACHA": {
+          "odds": 1.1,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": true
+        },
+        "#7 KARNET DE VOYAGE": {
+          "odds": 3.4,
+          "tendance": "",
+          "magnitude": 0.0,
+          "favoris": false
+        }
+      }
+    }
   }
 }
