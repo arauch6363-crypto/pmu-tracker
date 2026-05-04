@@ -155804,7 +155804,7 @@
       }
     }
   },
-  "2026-05-04 18:10": {
+  "2026-05-04 18:20": {
     "R1/C1": {
       "hippodrome": "VICHY",
       "label": "PRIX DE DOMPIERRE SUR BESBRE",
@@ -157446,57 +157446,57 @@
       "heure": "18:20",
       "horses": {
         "#1 NICOS BLEU": {
-          "odds": 40.0,
-          "tendance": "+",
-          "magnitude": 0.75,
+          "odds": 75.0,
+          "tendance": "",
+          "magnitude": 0.0,
           "favoris": false
         },
         "#2 NAPOLEON DE GAGOU": {
-          "odds": 10.0,
-          "tendance": "+",
-          "magnitude": 1.94,
+          "odds": 5.6,
+          "tendance": "",
+          "magnitude": 0.0,
           "favoris": false
         },
         "#3 NINJA DU PLESSIS": {
-          "odds": 17.0,
-          "tendance": "+",
-          "magnitude": 2.4,
+          "odds": 13.0,
+          "tendance": "",
+          "magnitude": 0.0,
           "favoris": false
         },
         "#4 NOBLE DU SURF": {
-          "odds": 45.0,
-          "tendance": "+",
-          "magnitude": 2.92,
+          "odds": 85.0,
+          "tendance": "",
+          "magnitude": 0.0,
           "favoris": false
         },
         "#5 NIERMES DE GUEZ": {
-          "odds": 2.0,
+          "odds": 2.9,
           "tendance": "",
           "magnitude": 0.0,
           "favoris": true
         },
         "#6 NUAGE DIVIN": {
-          "odds": 6.8,
-          "tendance": "-",
-          "magnitude": -5.55,
+          "odds": 5.4,
+          "tendance": "",
+          "magnitude": 0.0,
           "favoris": false
         },
         "#7 NAPOLEON": {
-          "odds": 4.2,
-          "tendance": "+",
-          "magnitude": 2.43,
+          "odds": 4.0,
+          "tendance": "",
+          "magnitude": 0.0,
           "favoris": false
         },
         "#8 NELSON FAFA": {
-          "odds": 26.0,
-          "tendance": "-",
-          "magnitude": -0.37,
+          "odds": 43.0,
+          "tendance": "",
+          "magnitude": 0.0,
           "favoris": false
         },
         "#9 NIARKOS DU CEBE": {
-          "odds": 16.0,
-          "tendance": "+",
-          "magnitude": 1.19,
+          "odds": 10.0,
+          "tendance": "",
+          "magnitude": 0.0,
           "favoris": false
         }
       }
@@ -157507,21 +157507,21 @@
       "heure": "18:45",
       "horses": {
         "#1 LEO DES KECHES": {
-          "odds": 2.8,
-          "tendance": "-",
-          "magnitude": -6.66,
+          "odds": 2.9,
+          "tendance": "",
+          "magnitude": 0.0,
           "favoris": true
         },
         "#2 LAGOS DE VAL": {
-          "odds": 5.0,
-          "tendance": "+",
-          "magnitude": 6.38,
+          "odds": 4.9,
+          "tendance": "",
+          "magnitude": 0.0,
           "favoris": false
         },
         "#3 LIVIA DES LANDES": {
-          "odds": 23.0,
+          "odds": 26.0,
           "tendance": "+",
-          "magnitude": 4.52,
+          "magnitude": 0.38,
           "favoris": false
         },
         "#4 LADY SARAH": {
@@ -157531,39 +157531,39 @@
           "favoris": false
         },
         "#5 LOU DES COUPERIES": {
-          "odds": 9.8,
+          "odds": 9.2,
           "tendance": "",
           "magnitude": 0.0,
           "favoris": false
         },
         "#6 LEON DE LA COURBE": {
-          "odds": 10.0,
+          "odds": 9.1,
           "tendance": "-",
-          "magnitude": -0.95,
+          "magnitude": -1.08,
           "favoris": false
         },
         "#7 LEON DU CLOS": {
           "odds": 12.0,
-          "tendance": "+",
-          "magnitude": 5.08,
+          "tendance": "",
+          "magnitude": 0.0,
           "favoris": false
         },
         "#8 LOOK AT ME LULU": {
-          "odds": 16.0,
-          "tendance": "+",
-          "magnitude": 4.48,
+          "odds": 18.0,
+          "tendance": "",
+          "magnitude": 0.0,
           "favoris": false
         },
         "#9 LUCIA PERRINE": {
-          "odds": 17.0,
-          "tendance": "+",
-          "magnitude": 11.39,
+          "odds": 16.0,
+          "tendance": "-",
+          "magnitude": -1.78,
           "favoris": false
         },
         "#10 LACIENDA FLASH": {
-          "odds": 5.6,
-          "tendance": "-",
-          "magnitude": -3.44,
+          "odds": 5.8,
+          "tendance": "",
+          "magnitude": 0.0,
           "favoris": false
         }
       }
