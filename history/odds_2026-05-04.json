@@ -148613,7 +148613,7 @@
       }
     }
   },
-  "2026-05-04 17:20": {
+  "2026-05-04 17:30": {
     "R1/C1": {
       "hippodrome": "VICHY",
       "label": "PRIX DE DOMPIERRE SUR BESBRE",
@@ -150206,19 +150206,19 @@
       "heure": "17:47",
       "horses": {
         "#1 MELMETAL": {
-          "odds": 117.0,
+          "odds": 204.0,
           "tendance": "+",
-          "magnitude": 0.85,
+          "magnitude": 0.24,
           "favoris": false
         },
         "#2 MELICIANO": {
-          "odds": 34.0,
-          "tendance": "+",
-          "magnitude": 0.29,
+          "odds": 60.0,
+          "tendance": "-",
+          "magnitude": -0.33,
           "favoris": false
         },
         "#3 MEGA D'UZE": {
-          "odds": 2.7,
+          "odds": 2.2,
           "tendance": "",
           "magnitude": 0.0,
           "favoris": true
@@ -150236,15 +150236,15 @@
           "favoris": false
         },
         "#6 MILANO DARLING": {
-          "odds": 6.0,
-          "tendance": "-",
-          "magnitude": -3.22,
+          "odds": 8.8,
+          "tendance": "",
+          "magnitude": 0.0,
           "favoris": false
         },
         "#7 MILKSHAKE": {
-          "odds": 22.0,
-          "tendance": "-",
-          "magnitude": -0.89,
+          "odds": 30.0,
+          "tendance": "",
+          "magnitude": 0.0,
           "favoris": false
         }
       }
@@ -150255,57 +150255,57 @@
       "heure": "18:20",
       "horses": {
         "#1 NICOS BLEU": {
-          "odds": 51.0,
+          "odds": 60.0,
           "tendance": "+",
-          "magnitude": 5.48,
+          "magnitude": 16.95,
           "favoris": false
         },
         "#2 NAPOLEON DE GAGOU": {
-          "odds": 9.2,
-          "tendance": "",
-          "magnitude": 0.0,
+          "odds": 8.5,
+          "tendance": "-",
+          "magnitude": -7.6,
           "favoris": false
         },
         "#3 NINJA DU PLESSIS": {
-          "odds": 10.0,
+          "odds": 11.0,
           "tendance": "+",
-          "magnitude": 3.84,
+          "magnitude": 5.55,
           "favoris": false
         },
         "#4 NOBLE DU SURF": {
-          "odds": 40.0,
-          "tendance": "-",
-          "magnitude": -0.97,
+          "odds": 45.0,
+          "tendance": "+",
+          "magnitude": 11.35,
           "favoris": false
         },
         "#5 NIERMES DE GUEZ": {
           "odds": 2.4,
-          "tendance": "-",
-          "magnitude": -4.0,
+          "tendance": "",
+          "magnitude": 0.0,
           "favoris": true
         },
         "#6 NUAGE DIVIN": {
-          "odds": 6.2,
-          "tendance": "",
-          "magnitude": 0.0,
+          "odds": 6.8,
+          "tendance": "+",
+          "magnitude": 9.67,
           "favoris": false
         },
         "#7 NAPOLEON": {
-          "odds": 4.0,
-          "tendance": "+",
-          "magnitude": 2.56,
+          "odds": 3.8,
+          "tendance": "-",
+          "magnitude": -5.0,
           "favoris": false
         },
         "#8 NELSON FAFA": {
           "odds": 28.0,
           "tendance": "+",
-          "magnitude": 4.42,
+          "magnitude": 0.35,
           "favoris": false
         },
         "#9 NIARKOS DU CEBE": {
-          "odds": 13.0,
-          "tendance": "-",
-          "magnitude": -9.02,
+          "odds": 14.0,
+          "tendance": "+",
+          "magnitude": 8.39,
           "favoris": false
         }
       }
@@ -150316,21 +150316,21 @@
       "heure": "18:45",
       "horses": {
         "#1 LEO DES KECHES": {
-          "odds": 3.0,
+          "odds": 2.9,
           "tendance": "-",
-          "magnitude": -3.22,
+          "magnitude": -3.33,
           "favoris": true
         },
         "#2 LAGOS DE VAL": {
           "odds": 4.6,
-          "tendance": "+",
-          "magnitude": 2.22,
+          "tendance": "",
+          "magnitude": 0.0,
           "favoris": false
         },
         "#3 LIVIA DES LANDES": {
-          "odds": 18.0,
+          "odds": 20.0,
           "tendance": "+",
-          "magnitude": 1.07,
+          "magnitude": 7.44,
           "favoris": false
         },
         "#4 LADY SARAH": {
@@ -150340,39 +150340,39 @@
           "favoris": false
         },
         "#5 LOU DES COUPERIES": {
-          "odds": 12.0,
+          "odds": 11.0,
           "tendance": "-",
-          "magnitude": -0.82,
+          "magnitude": -1.66,
           "favoris": false
         },
         "#6 LEON DE LA COURBE": {
-          "odds": 9.4,
+          "odds": 10.0,
           "tendance": "+",
-          "magnitude": 1.07,
+          "magnitude": 6.38,
           "favoris": false
         },
         "#7 LEON DU CLOS": {
           "odds": 12.0,
-          "tendance": "-",
-          "magnitude": -1.58,
+          "tendance": "+",
+          "magnitude": 1.61,
           "favoris": false
         },
         "#8 LOOK AT ME LULU": {
-          "odds": 12.0,
+          "odds": 14.0,
           "tendance": "+",
-          "magnitude": 2.38,
+          "magnitude": 11.62,
           "favoris": false
         },
         "#9 LUCIA PERRINE": {
-          "odds": 16.0,
-          "tendance": "-",
-          "magnitude": -1.8,
+          "odds": 17.0,
+          "tendance": "+",
+          "magnitude": 5.52,
           "favoris": false
         },
         "#10 LACIENDA FLASH": {
-          "odds": 6.2,
-          "tendance": "+",
-          "magnitude": 1.63,
+          "odds": 6.0,
+          "tendance": "-",
+          "magnitude": -3.22,
           "favoris": false
         }
       }
@@ -150857,51 +150857,51 @@
       "heure": "17:30",
       "horses": {
         "#1 SAJIR": {
-          "odds": 1.9,
-          "tendance": "",
-          "magnitude": 0.0,
+          "odds": 1.7,
+          "tendance": "-",
+          "magnitude": -10.52,
           "favoris": true
         },
         "#2 STOLEN KISS": {
-          "odds": 8.7,
+          "odds": 5.3,
           "tendance": "-",
-          "magnitude": -2.24,
+          "magnitude": -1.85,
           "favoris": false
         },
         "#3 MISE EN BOITE": {
-          "odds": 13.0,
-          "tendance": "-",
-          "magnitude": -3.49,
+          "odds": 10.0,
+          "tendance": "+",
+          "magnitude": 9.09,
           "favoris": false
         },
         "#4 VICTORY CALL": {
-          "odds": 31.0,
-          "tendance": "-",
-          "magnitude": -5.35,
+          "odds": 41.0,
+          "tendance": "+",
+          "magnitude": 10.81,
           "favoris": false
         },
         "#5 CHARIBELLE": {
-          "odds": 22.0,
-          "tendance": "-",
-          "magnitude": -3.5,
+          "odds": 27.0,
+          "tendance": "+",
+          "magnitude": 10.31,
           "favoris": false
         },
         "#6 PROFUMO DI IENA": {
-          "odds": 21.0,
+          "odds": 26.0,
           "tendance": "+",
-          "magnitude": 1.86,
+          "magnitude": 7.75,
           "favoris": false
         },
         "#7 ALREYYAH": {
-          "odds": 20.0,
+          "odds": 24.0,
           "tendance": "+",
-          "magnitude": 0.5,
+          "magnitude": 10.17,
           "favoris": false
         },
         "#8 MEDITERANNIO": {
-          "odds": 3.5,
+          "odds": 5.3,
           "tendance": "+",
-          "magnitude": 2.94,
+          "magnitude": 8.16,
           "favoris": false
         }
       }
@@ -150912,21 +150912,21 @@
       "heure": "18:05",
       "horses": {
         "#1 CLOUD MAN": {
-          "odds": 16.0,
+          "odds": 12.0,
           "tendance": "-",
-          "magnitude": -8.57,
+          "magnitude": -19.37,
           "favoris": false
         },
         "#2 ZOUBAREVA": {
           "odds": 10.0,
-          "tendance": "-",
-          "magnitude": -6.36,
+          "tendance": "+",
+          "magnitude": 2.91,
           "favoris": false
         },
         "#3 MARCAN": {
-          "odds": 5.3,
+          "odds": 5.8,
           "tendance": "+",
-          "magnitude": 5.99,
+          "magnitude": 9.43,
           "favoris": true
         },
         "#4 GOLDEN TRIP": {
@@ -150936,75 +150936,75 @@
           "favoris": false
         },
         "#5 TWIN DREAM": {
-          "odds": 24.0,
-          "tendance": "+",
-          "magnitude": 2.47,
+          "odds": 23.0,
+          "tendance": "-",
+          "magnitude": -5.64,
           "favoris": false
         },
         "#6 ZYGFRYD": {
-          "odds": 8.7,
-          "tendance": "-",
-          "magnitude": -1.13,
+          "odds": 9.6,
+          "tendance": "+",
+          "magnitude": 10.34,
           "favoris": false
         },
         "#7 YOUM IN LOVE": {
-          "odds": 8.5,
-          "tendance": "-",
-          "magnitude": -9.57,
+          "odds": 8.7,
+          "tendance": "+",
+          "magnitude": 2.35,
           "favoris": false
         },
         "#8 ZAADOR": {
-          "odds": 20.0,
+          "odds": 21.0,
           "tendance": "+",
-          "magnitude": 8.02,
+          "magnitude": 7.92,
           "favoris": false
         },
         "#9 MAGURO": {
-          "odds": 15.0,
+          "odds": 13.0,
           "tendance": "-",
-          "magnitude": -0.65,
+          "magnitude": -13.15,
           "favoris": false
         },
         "#10 SECRET GLORY": {
-          "odds": 15.0,
-          "tendance": "+",
-          "magnitude": 6.04,
+          "odds": 14.0,
+          "tendance": "-",
+          "magnitude": -10.12,
           "favoris": false
         },
         "#11 CHONBURI": {
-          "odds": 28.0,
-          "tendance": "+",
-          "magnitude": 5.66,
+          "odds": 27.0,
+          "tendance": "-",
+          "magnitude": -3.21,
           "favoris": false
         },
         "#12 KARAWAN": {
-          "odds": 31.0,
+          "odds": 32.0,
           "tendance": "+",
-          "magnitude": 1.61,
+          "magnitude": 2.86,
           "favoris": false
         },
         "#13 MAESTRO CHOP": {
-          "odds": 16.0,
+          "odds": 17.0,
           "tendance": "+",
-          "magnitude": 7.0,
+          "magnitude": 4.76,
           "favoris": false
         },
         "#14 RED CRAZY": {
-          "odds": 16.0,
+          "odds": 15.0,
           "tendance": "-",
-          "magnitude": -2.38,
+          "magnitude": -5.48,
           "favoris": false
         },
         "#15 ALVAR": {
-          "odds": 37.0,
-          "tendance": "+",
-          "magnitude": 5.27,
+          "odds": 36.0,
+          "tendance": "-",
+          "magnitude": -4.48,
           "favoris": false
         },
         "#16 LA MOMY": {
           "odds": 14.0,
           "tendance": "-",
-          "magnitude": -1.34,
+          "magnitude": -2.04,
           "favoris": false
         }
       }
